@@ -1,0 +1,71 @@
+.parent {
+  position: relative;
+  height: 1850px;
+  width: 930px;
+}
+
+#map {
+  position: absolute;
+  display: block;
+
+}
+
+.animal {
+  position: absolute;
+  width: 120px;
+  display: block;
+}
+
+#buck {
+  left: 550px;
+  top: 700px;
+}
+
+#wallaby {
+  left: 1500px;
+  top: 600px;
+  width: 80px;
+}
+
+#andeancat  {
+  left: 500px;
+  top: 530px;
+}
+
+#fox {
+  left: 350px;
+  top: 90px;
+}
+
+#warbler {
+  width: 80px;
+  top: 115px;
+  left: 850px;
+}
+
+#narwhal {
+  top: 20px;
+  left: 680px;
+}
+
+#lion {
+  top: 250px;
+  left: 1200px;
+  width: 80px;
+}
+
+#margay {
+  top: 250px;
+  left: 300px;
+  width: 80px;
+}
+
+#bison {
+  top: 80px;
+  left: 1200px;
+}
+
+#sheep {
+  top:  400px;
+  left: 900px;
+}
